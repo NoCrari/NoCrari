@@ -4,12 +4,11 @@
 
 ## 🎯 À propos de moi
 
-Consultant Cloud DevOps junior avec un solide parcours en **cybersécurité** et **systèmes**. Passionné par l'automatisation, la sécurisation d'architectures et le déploiement d'infrastructures cloud modernes.
-
-- 🔒 **2+ ans de formation en Cybersécurité et Cloud** chez IPSSI
-- ☁️ Spécialisé en **AWS/Azure**, **Terraform**, et **orchestration de microservices**
-- 🛡️ Projets en **tests de pénétration** et **hardening système**
-- 🎯 Objectif : intégrer des projets innovants et sécurisés
+Consultant Cloud DevOps en junior, avec un parcours en cybersécurité et systèmes.
+Je maîtrise Terraform, Docker, GitLab CI, Jenkins, Ansible et le scripting.
+Compétent en sécurisation d’architectures, déploiement cloud (AWS/Azure) et orchestration
+de microservices.
+Mon objectif est d'intégrer des projets innovants et sécurisés.
 
 ---
 
