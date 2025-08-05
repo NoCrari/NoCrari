@@ -1,7 +1,4 @@
-<!-- Lien : https://readme-typing-svg.demolab.com -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=2000&pause=1000&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Bonjour%2C+je+m'appelle+Rivo+Rakotondrasoa;Je+suis+Consultant+DevOps+junior&color=00FF66" alt="Typing SVG" />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&pause=1000&color=00FF66&width=435&lines=Bonjour+je+m'appelle+Rivo+Rakotondrasoa.)](https://git.io/typing-svg)
 
 <p align="justify">
   Consultant Cloud DevOps en junior, avec un parcours en cybersécurité et systèmes.
