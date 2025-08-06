@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&duration=2500&pause=1000&color=00FF66&center=true&multiline=true&width=1000&height=150&lines=Hello+World%2C+My+name+is+Rivo+!;%23OpenToWork;En+recherche+d'un+poste+en+tant+que+DevOps+junior.)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rivo-rakotondrasoa&color=00FF66&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🎯 About me
@@ -30,35 +34,35 @@ Mon objectif est d'intégrer des projets innovants et sécurisés.
 ## 🛠️ Technologies & Skills
 
 ### ☁️ Cloud & Infrastructure
-<img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40"/>
-<img src="https://skillicons.dev/icons?i=azure" alt="Azure" height="40"/>
-<img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="40"/>
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40"/> AWS
+<img src="https://skillicons.dev/icons?i=azure" alt="Azure" height="40"/> Azure
+<img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="40"/> Terraform
 
 ### 🔄 CI/CD & Automation
-<img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab CI" height="40"/>
-<img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" height="40"/>
-<img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" height="40"/>
+<img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab CI" height="40"/> GitLab CI
+<img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" height="40"/> Jenkins
+<img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" height="40"/> Ansible
 
 ### 🐳 Containerization & Orchestration
-<img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40"/>
-<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="40"/>
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40"/> Docker
+<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="40"/> Kubernetes
 
 ![LXC](https://img.shields.io/badge/LXC-%23003f5c.svg?style=for-the-badge&logoColor=white)
 
 ### 💻 Scripting & Programming
-<img src="https://skillicons.dev/icons?i=python" alt="Python" height="40"/>
-<img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="40"/>
-<img src="https://skillicons.dev/icons?i=c" alt="C" height="40"/>
-<img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" height="40"/>
-<img src="https://skillicons.dev/icons?i=php" alt="PHP" height="40"/>
+<img src="https://skillicons.dev/icons?i=python" alt="Python" height="40"/> Python
+<img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="40"/> Bash
+<img src="https://skillicons.dev/icons?i=c" alt="C" height="40"/> C
+<img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" height="40"/> PowerShell
+<img src="https://skillicons.dev/icons?i=php" alt="PHP" height="40"/> PHP
 
 ### 🗄️ Database & Cluster
-<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"/>
+<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"/> MySQL
 
 ![Galera](https://img.shields.io/badge/Galera-%23F7931E.svg?style=for-the-badge&logoColor=white)
 
 ### 📊 Monitoring
-<img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" height="40"/>
+<img src="https://skillicons.dev/icons?i=grafana" alt="Grafana" height="40"/> Grafana
 
 ![Centreon](https://img.shields.io/badge/Centreon-%23FF6600.svg?style=for-the-badge&logoColor=white)
 
@@ -68,8 +72,8 @@ Mon objectif est d'intégrer des projets innovants et sécurisés.
 ![HAProxy](https://img.shields.io/badge/HAProxy-%2300ADD8.svg?style=for-the-badge&logoColor=white)
 
 ### 🖥️ Systèmes d'Exploitation
-<img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" height="40"/>
-<img src="https://skillicons.dev/icons?i=windows" alt="Windows Server" height="40"/>
+<img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" height="40"/> Ubuntu
+<img src="https://skillicons.dev/icons?i=windows" alt="Windows Server" height="40"/> Windows
 
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23268BEE.svg?style=for-the-badge&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-%23262577.svg?style=for-the-badge&logoColor=white)
@@ -103,7 +107,7 @@ Mon objectif est d'intégrer des projets innovants et sécurisés.
 
 ---
 
-## 🌟 Projets & Réalisations
+## 🌟 Projects
 
 - 🔍 **Tests de pénétration** sur applications web et systèmes
 - ☁️ **Surveillance cloud Azure** et gestion d'incidents
@@ -113,7 +117,7 @@ Mon objectif est d'intégrer des projets innovants et sécurisés.
 
 ---
 
-## 🌐 Langues
+## 🌐 Languages
 
 ![Anglais](https://img.shields.io/badge/Anglais-B2%20Professionnel-blue?style=for-the-badge)
 ![Français](https://img.shields.io/badge/Français-Langue%20maternelle-green?style=for-the-badge)
@@ -121,7 +125,7 @@ Mon objectif est d'intégrer des projets innovants et sécurisés.
 
 ---
 
-## 📫 Me contacter
+## 📫 Contact me
 
 <p align="center">
   <a href="mailto:mamonjyrivo@gmail.com">
