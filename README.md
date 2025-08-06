@@ -17,6 +17,7 @@ Junior Cloud DevOps Consultant, with a background in cybersecurity and systems.
 I am proficient in Terraform, Docker, GitLab CI, Jenkins, Ansible, and scripting.
 I am skilled in architecture security, cloud deployment (AWS/Azure), and microservices orchestration.
 My goal is to be part of innovative and secure projects.
+I am looking for a position as a Cloud DevOps Consultant.
 
 French:
 
@@ -34,45 +35,35 @@ Mon objectif est d'intégrer des projets innovants et sécurisés.
 ## 🛠️ Technologies & Skills
 
 ### ☁️ Cloud & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40"/>
-  <img src="https://skillicons.dev/icons?i=azure" alt="Azure" height="40"/>
-  <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="40">
-   <br>
-  ![Galera](https://img.shields.io/badge/Galera-%23F7931E.svg?style=for-the-badge&logoColor=white)
-</p>
+<img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40"/>
+<img src="https://skillicons.dev/icons?i=azure" alt="Azure" height="40"/>
+<img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="40"/>
+
+![Galera](https://img.shields.io/badge/Galera-%23F7931E.svg?style=for-the-badge&logoColor=white)
 
 ### 🔄 CI/CD & Automation
-<p>
-  <img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab CI" height="40"/>
-  <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" height="40"/>
-  <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab CI" height="40"/>
+<img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" height="40"/>
+<img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" height="40"/>
 
 ### 🐳 Containerization & Orchestration
-<p>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="40"/>
-  <br>
-  ![LXC](https://img.shields.io/badge/LXC-%23003f5c.svg?style=for-the-badge&logoColor=white)
-</p>
+<img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="40"/>
+
+![LXC](https://img.shields.io/badge/LXC-%23003f5c.svg?style=for-the-badge&logoColor=white)
 
 ### 💻 Scripting & Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python" alt="Python" height="40"/>
-  <img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="40"/>
-  <img src="https://skillicons.dev/icons?i=c" alt="C" height="40"/>
-  <img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" height="40"/>
-</p>
+<img src="https://skillicons.dev/icons?i=python" alt="Python" height="40"/>
+<img src="https://skillicons.dev/icons?i=bash" alt="Bash" height="40"/>
+<img src="https://skillicons.dev/icons?i=c" alt="C" height="40"/>
+<img src="https://skillicons.dev/icons?i=powershell" alt="PowerShell" height="40"/>
 
 ### 🖥️ Systems & Infrastructure
-<p>
-  <img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40"/>
-  <img src="https://skillicons.dev/icons?i=windows" alt="Windows Server" height="40"/>
-  <br>
-  ![Active Directory](https://img.shields.io/badge/Active%20Directory-%230078D4.svg?style=for-the-badge&logoColor=white)
-  ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logoColor=white)
-</p>
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40"/>
+<img src="https://skillicons.dev/icons?i=windows" alt="Windows Server" height="40"/>
+
+![Active Directory](https://img.shields.io/badge/Active%20Directory-%230078D4.svg?style=for-the-badge&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logoColor=white)
 
 ### 🔍 Recognition & Enumeration
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23268BEE.svg?style=for-the-badge&logoColor=white)
