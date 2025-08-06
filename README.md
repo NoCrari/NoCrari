@@ -17,7 +17,6 @@ Junior Cloud DevOps Consultant, with a background in cybersecurity and systems.
 I am proficient in Terraform, Docker, GitLab CI, Jenkins, Ansible, and scripting.
 I am skilled in architecture security, cloud deployment (AWS/Azure), and microservices orchestration.
 My goal is to be part of innovative and secure projects.
-I am looking for a position as a Cloud DevOps Consultant.
 
 French:
 
