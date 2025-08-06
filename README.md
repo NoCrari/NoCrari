@@ -119,9 +119,6 @@ Mon objectif est d'intégrer des projets innovants et sécurisés.
   <a href="https://linkedin.com/in/rivo-rakotondrasoa">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="tel:0675419587">
-    <img src="https://img.shields.io/badge/Téléphone-00FF66?style=for-the-badge&logo=phone&logoColor=white" alt="Téléphone" />
-  </a>
 </p>
 
 ---
