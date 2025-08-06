@@ -4,6 +4,7 @@
 
 ## 🎯 À propos de moi
 
+Je m'appelle Rivo RAKOTONDRASOA,
 Consultant Cloud DevOps en junior, avec un parcours en cybersécurité et systèmes.
 Je maîtrise Terraform, Docker, GitLab CI, Jenkins, Ansible et le scripting.
 Compétent en sécurisation d’architectures, déploiement cloud (AWS/Azure) et orchestration
