@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&duration=2500&pause=1000&color=00FF66&center=true&multiline=true&width=1000&height=150&lines=Hello+World%2C+My+name+is+Rivo+!;%23OpenToWork;En+recherche+d'un+poste+en+tant+que+DevOps+junior.)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rivo-rakotondrasoa&color=00FF66&style=for-the-badge" alt="Profile Views" />
-</p>
-
 ---
 
 ## 🎯 About me
