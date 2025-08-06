@@ -2,6 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&duration=2500&pause=1000&color=00FF66&center=true&multiline=true&width=1000&height=150&lines=Hello+World%2C+My+name+is+Rivo+!;%23OpenToWork;En+recherche+d'un+poste+en+tant+que+DevOps+junior.)](https://git.io/typing-svg)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rivo-rakotondrasoa&color=00FF66&style=for-the-badge" alt="Profile Views" />
+</p>
+
 ---
 
 ## 🎯 About me
@@ -23,7 +27,6 @@ Je maîtrise Terraform, Docker, GitLab CI, Jenkins, Ansible et le scripting.
 Compétent en sécurisation d’architectures, déploiement cloud (AWS/Azure) et orchestration
 de microservices.
 Mon objectif est d'intégrer des projets innovants et sécurisés.
-
 
 
 ---
@@ -64,9 +67,8 @@ Mon objectif est d'intégrer des projets innovants et sécurisés.
 ![Centreon](https://img.shields.io/badge/Centreon-%23FF6600.svg?style=for-the-badge&logoColor=white)
 
 ### 🌐 Web Services & Proxy
-<img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" height="40"/>
-<img src="https://skillicons.dev/icons?i=apache" alt="Apache" height="40"/>
-
+![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=for-the-badge&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logoColor=white)
 ![HAProxy](https://img.shields.io/badge/HAProxy-%2300ADD8.svg?style=for-the-badge&logoColor=white)
 
 ### 🖥️ Systèmes d'Exploitation
@@ -76,7 +78,7 @@ Mon objectif est d'intégrer des projets innovants et sécurisés.
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23268BEE.svg?style=for-the-badge&logoColor=white)
 ![CentOS](https://img.shields.io/badge/CentOS-%23262577.svg?style=for-the-badge&logoColor=white)
 
-### 🏢 Directory & Network
+### 🏢 Directory & Network Services
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-%230078D4.svg?style=for-the-badge&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logoColor=white)
 
@@ -87,8 +89,8 @@ Mon objectif est d'intégrer des projets innovants et sécurisés.
 ![Shodan](https://img.shields.io/badge/Shodan-%23DC382D.svg?style=for-the-badge&logoColor=white)
 
 ### 🛡️ Exploitation & Pentesting
-![Metasploit](https://img.shields.io/badge/Metasploit-%23003366.svg?style=for-the-badge&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%23003366.svg?style=for-the-badge&logoColor=white)
 ![SQLMap](https://img.shields.io/badge/SQLMap-%23336791.svg?style=for-the-badge&logoColor=white)
 ![Nikto](https://img.shields.io/badge/Nikto-%23000000.svg?style=for-the-badge&logoColor=white)
 ![Hydra](https://img.shields.io/badge/Hydra-%2300CED1.svg?style=for-the-badge&logoColor=black)
@@ -98,10 +100,10 @@ Mon objectif est d'intégrer des projets innovants et sécurisés.
 ![Hashcat](https://img.shields.io/badge/Hashcat-%23FFD700.svg?style=for-the-badge&logoColor=black)
 
 ### 🔬 Reverse Engineering & Forensic
-<img src="https://skillicons.dev/icons?i=ghidra" alt="Ghidra" height="40"/>
-
+![Ghidra](https://img.shields.io/badge/Ghidra-%23FF6B6B.svg?style=for-the-badge&logoColor=white)
 ![Volatility](https://img.shields.io/badge/Volatility-%23FF4500.svg?style=for-the-badge&logoColor=white)
 ![Binwalk](https://img.shields.io/badge/Binwalk-%238A2BE2.svg?style=for-the-badge&logoColor=white)
+
 
 ---
 
