@@ -1,6 +1,6 @@
 <h2 align="center">🚀 Expert Cloud DevOps</h2>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&duration=2500&pause=1000&color=00FF66&center=true&multiline=true&width=1000&height=150&lines=Hello+World%2C+My+name+is+Rivo+!;%23OpenToWork;En+recherche+d'un+poste+en+tant+que+DevOps+junior.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu&size=35&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&multiline=true&width=1000&height=150&lines=Hello+World%2C+My+name+is+Rivo+!;%23OpenToWork;En+recherche+d'un+poste+en+tant+que+Expert+Cloud+DevOps.)](https://git.io/typing-svg)
 
 ---
 
