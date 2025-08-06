@@ -120,9 +120,3 @@ Mon objectif est d'intégrer des projets innovants et sécurisés.
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
-
----
-
-<p align="center">
-  <i>💡 "La sécurité n'est pas un produit, mais un processus" - Bruce Schneier</i>
-</p>
