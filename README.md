@@ -67,7 +67,7 @@ Mon objectif est d'intégrer des projets innovants et sécurisés.
 ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=for-the-badge&logoColor=white)
 ![HAProxy](https://img.shields.io/badge/HAProxy-%2300ADD8.svg?style=for-the-badge&logoColor=white)
 
-### 🖥️ Systèmes d'Exploitation
+### 🖥️ OS
 <img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" height="40"/> Ubuntu
 <img src="https://skillicons.dev/icons?i=windows" alt="Windows Server" height="40"/> Windows
 
