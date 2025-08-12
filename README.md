@@ -27,6 +27,10 @@ Mon objectif est d'intégrer des projets innovants et sécurisés.
 
 ---
 
+[![roadmap.sh](https://roadmap.sh/card/tall/689acf54614598977ed8b236?variant=dark)](https://roadmap.sh)
+
+---
+
 ## 🛠️ Technologies & Skills
 
 ### ☁️ Cloud & Infrastructure
