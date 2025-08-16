@@ -34,73 +34,74 @@ Mon objectif est d'intégrer des projets innovants et sécurisés.
 ## 🛠️ Technologies & Skills
 
 ### ☁️ Cloud & Infrastructure
-| ![AWS](https://skillicons.dev/icons?i=aws) | ![Azure](https://skillicons.dev/icons?i=azure) | ![Terraform](https://skillicons.dev/icons?i=terraform) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="64" height="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="64" height="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="64" height="64"/> |
 |:---:|:---:|:---:|
 | **AWS** | **Azure** | **Terraform** |
 
 ### 🔄 CI/CD & Automation
-| ![GitLab CI](https://skillicons.dev/icons?i=gitlab) | ![Jenkins](https://skillicons.dev/icons?i=jenkins) | ![Ansible](https://skillicons.dev/icons?i=ansible) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="64" height="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="64" height="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="64" height="64"/> |
 |:---:|:---:|:---:|
 | **GitLab CI** | **Jenkins** | **Ansible** |
 
 ### 🐳 Containerization & Orchestration
-| ![Docker](https://skillicons.dev/icons?i=docker) | ![Kubernetes](https://skillicons.dev/icons?i=kubernetes) | ![LXC](https://img.shields.io/badge/LXC-%23003f5c.svg?style=flat&logoColor=white) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="64" height="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="64" height="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="64" height="64"/> |
 |:---:|:---:|:---:|
 | **Docker** | **Kubernetes** | **LXC** |
 
 ### 💻 Scripting & Programming
-| ![Python](https://skillicons.dev/icons?i=python) | ![Bash](https://skillicons.dev/icons?i=bash) | ![C](https://skillicons.dev/icons?i=c) | ![PowerShell](https://skillicons.dev/icons?i=powershell) | ![PHP](https://skillicons.dev/icons?i=php) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="64" height="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="64" height="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="64" height="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="64" height="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="64" height="64"/> |
 |:---:|:---:|:---:|:---:|:---:|
 | **Python** | **Bash** | **C** | **PowerShell** | **PHP** |
 
 ### 🗄️ Database & Cluster
-| ![MySQL](https://skillicons.dev/icons?i=mysql) | ![Galera](https://img.shields.io/badge/Galera-%23F7931E.svg?style=flat&logoColor=white) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="64" height="64"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/mariadb/mariadb-original.svg" width="64" height="64"/> |
 |:---:|:---:|
 | **MySQL** | **Galera** |
 
 ### 📊 Monitoring
-| ![Grafana](https://skillicons.dev/icons?i=grafana) | ![Centreon](https://img.shields.io/badge/Centreon-%23FF6600.svg?style=flat&logoColor=white) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="64" height="64"/> | <img src="https://www.vectorlogo.zone/logos/centreon/centreon-icon.svg" width="64" height="64"/> |
 |:---:|:---:|
 | **Grafana** | **Centreon** |
 
 ### 🌐 Web Services & Proxy
-| ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat&logoColor=white) | ![Apache](https://img.shields.io/badge/Apache-%23D42029.svg?style=flat&logoColor=white) | ![HAProxy](https://img.shields.io/badge/HAProxy-%2300ADD8.svg?style=flat&logoColor=white) |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="64" height="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="64" height="64"/> | ![HAProxy](https://img.shields.io/badge/HAProxy-%2300ADD8.svg?style=flat&logoColor=white)|
 |:---:|:---:|:---:|
 | **Nginx** | **Apache** | **HAProxy** |
 
 ### 🖥️ Operating Systems
-| ![Ubuntu](https://skillicons.dev/icons?i=ubuntu) | ![Windows](https://skillicons.dev/icons?i=windows) | ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-%23268BEE.svg?style=flat&logoColor=white) | ![CentOS](https://img.shields.io/badge/CentOS-%23262577.svg?style=flat&logoColor=white) |
+| <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/ubuntu/ubuntu-original.svg" width="64" height="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="64" height="64"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kalilinux/kalilinux-original.svg" width="64" height="64"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="64" height="64"/> |
 |:---:|:---:|:---:|:---:|
 | **Ubuntu** | **Windows Server** | **Kali Linux** | **CentOS** |
 
 ### 🏢 Directory & Network Services
-| ![Active Directory](https://img.shields.io/badge/Active%20Directory-%230078D4.svg?style=flat&logoColor=white) | ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=flat&logoColor=white) |
+| ![Active Directory](https://img.shields.io/badge/Active%20Directory-%230078D4.svg?style=flat&logoColor=white) | <img src="https://www.svgrepo.com/show/305858/cisco.svg" width="64" height="64"/> |
 |:---:|:---:|
 | **Active Directory** | **Cisco** |
 
 ### 🔍 Recognition & OSINT
-| ![Nmap](https://img.shields.io/badge/Nmap-%23000000.svg?style=flat&logoColor=white) | ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=flat&logoColor=white) | ![Gobuster](https://img.shields.io/badge/Gobuster-%23FF6B35.svg?style=flat&logoColor=white) | ![Shodan](https://img.shields.io/badge/Shodan-%23DC382D.svg?style=flat&logoColor=white) |
+| <img src="https://nmap.org/images/nmap-logo-256x256.png" width="64" height="64"/> | <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="64" height="64"/> | <img src="https://www.kali.org/tools/gobuster/images/gobuster-logo.svg" width="64" height="64"/> | ![Shodan](https://img.shields.io/badge/Shodan-%23DC382D.svg?style=flat&logoColor=white) |
 |:---:|:---:|:---:|:---:|
 | **Nmap** | **Wireshark** | **Gobuster** | **Shodan** |
 
 ### 🛡️ Exploitation & Pentesting
-| ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-%23FF6633.svg?style=flat&logoColor=white) | ![Metasploit](https://img.shields.io/badge/Metasploit-%23003366.svg?style=flat&logoColor=white) | ![SQLMap](https://img.shields.io/badge/SQLMap-%23336791.svg?style=flat&logoColor=white) |
+| <img src="https://cdn.simpleicons.org/burpsuite/FF6633" width="64" height="64"/> | <img src="https://www.kali.org/tools/metasploit-framework/images/metasploit-framework-logo.svg" width="64" height="64"/> | <img src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" width="64" height="64"/> |
 |:---:|:---:|:---:|
 | **Burp Suite** | **Metasploit** | **SQLMap** |
 
-| ![Nikto](https://img.shields.io/badge/Nikto-%23000000.svg?style=flat&logoColor=white) | ![Hydra](https://img.shields.io/badge/Hydra-%2300CED1.svg?style=flat&logoColor=black) |
+| <img src="https://www.kali.org/tools/nikto/images/nikto-logo.svg" width="64" height="64"/> | <img src="https://www.kali.org/tools/hydra/images/hydra-logo.svg" width="64" height="64"/> |
 |:---:|:---:|
 | **Nikto** | **Hydra** |
 
 ### 🔓 Cracking & Password Attacks
-| ![John The Ripper](https://img.shields.io/badge/John%20The%20Ripper-%23FF0000.svg?style=flat&logoColor=white) | ![Hashcat](https://img.shields.io/badge/Hashcat-%23FFD700.svg?style=flat&logoColor=black) |
+| <img src="https://www.kali.org/tools/john/images/john-logo.svg" width="64" height="64"/> | <img src="https://www.kali.org/tools/hashcat/images/hashcat-logo.svg" width="64" height="64"/> |
 |:---:|:---:|
 | **John The Ripper** | **Hashcat** |
 
 ### 🔬 Reverse Engineering & Forensic
-| ![Ghidra](https://img.shields.io/badge/Ghidra-%23FF6B6B.svg?style=flat&logoColor=white) | ![Volatility](https://img.shields.io/badge/Volatility-%23FF4500.svg?style=flat&logoColor=white) | ![Binwalk](https://img.shields.io/badge/Binwalk-%238A2BE2.svg?style=flat&logoColor=white) |
+| <img src="https://www.kali.org/tools/ghidra/images/ghidra-logo.svg" width="64" height="64"/> | <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kalilinux.svg" width="64" height="64"/> | <img src="https://www.kali.org/tools/binwalk/images/binwalk-logo.svg" width="64" height="64"/> |
 |:---:|:---:|:---:|
 | **Ghidra** | **Volatility** | **Binwalk** |
+
 ---
 
 ## 🌟 Projects
