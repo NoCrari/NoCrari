@@ -104,16 +104,6 @@ Mon objectif est d'intégrer des projets innovants et sécurisés.
 
 ---
 
-## 🌟 Projects
-
-- 🔍 **Tests de pénétration** sur applications web et systèmes
-- ☁️ **Surveillance cloud Azure** et gestion d'incidents
-- 🗄️ **Conception de bases de données** relationnelles
-- 🐳 **Orchestration de microservices** avec Docker & Kubernetes
-- 🔧 **Automatisation CI/CD** avec GitLab CI et Jenkins
-
----
-
 ## 🌐 Languages
 
 ![Anglais](https://img.shields.io/badge/Anglais-B2%20Professionnel-blue?style=for-the-badge)
